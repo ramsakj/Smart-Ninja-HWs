@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.white {
+    color: white;
+    font-family: monospace;
+    font-size: 20;
+}
+
+.yellow {
+    color: yellow;
+    font-family: copperplate;
+    font-size: 32;
+    outline: 3px dotted;
+}
+
+.green {
+    color: green;
+    font-family: arial
+    font-size: 28;
+    font-style: italic;
+    text-decoration: 7px underline blue;
+}
